@@ -3,7 +3,7 @@ The rock paper scissors game that uses navigation controllers, tab bar controlle
 
 ## Screen shots
 
-<img src="GameScreenShot.png" width="300"> <img src="ScoreScreenShot" width="300">
+<img src="GameScreenShot.png" width="300"> <img src="ScoreScreenShot.png" width="300">
 
 ## Requirements
 
